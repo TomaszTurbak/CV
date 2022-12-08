@@ -8,7 +8,7 @@ This brief version of my CV is my very first step in FrontEnd.
 
 ## Project preview
 
-![cv-preview](https://github.com/TomaszTurbak/CV/blob/main/cv-preview.png?raw=true)
+![cv-preview](https://github.com/TomaszTurbak/CV/blob/main/images/cv-preview.png?raw=true)
 
 ## Technologies used in the project:
 - HTML
