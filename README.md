@@ -4,7 +4,7 @@
 
 ## An brief version of my CV.
 
-This is my very first steps in FrontEnd. 
+This is my very first step in FrontEnd. 
 
 ## Technologies used in the project:
 - HTML
