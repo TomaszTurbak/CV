@@ -7,6 +7,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>CV Tomasz Turbak</title>
   <link href="css/style.css" rel="stylesheet" />
+  <link href="css/aside.css" rel="stylesheet" />
+  <link href="css/main.css" rel="stylesheet" />
   <a href="https://imgbb.com/"></a>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -14,16 +16,16 @@
   <script defer src="js/script.js"></script>
 </head>
 
-<body>
+<body class="body">
   <div class="wrapper">
-    <aside>
-      <div class="photo">
-        <img class="cv-photo" src="https://github.com/TomaszTurbak/CV/blob/main/tomasz-turbak.jpg" width="370"
-          alt="photo of Tomasz Turbak" />
-      </div>
+    <aside class="aside">
+      <p class="js-photo">
+        <img class="aside__photo" src="https://github.com/TomaszTurbak/CV/blob/main/tomasz-turbak.jpg?raw=true"
+          width="370" alt="photo of Tomasz Turbak" />;
+      </p>
 
       <div class="contact-block">
-        <button class="button">Delete photo</button>;
+        <button class="js-button">Delete photo</button>;
         <h2 class="header-secondary">Contacts:</h2>
 
         <p class="contact-links">
@@ -123,7 +125,8 @@
           </li>
           <li>
             <span class="list-secondary-item">How to be a team leader <br /><span
-                class="highlight course-organizer">Neuron PR Agency</span>2002</span>
+                class="highlight course-organizer">Neuron
+                PR Agency</span>2002</span>
           </li>
         </ul>
       </div>

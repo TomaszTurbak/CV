@@ -1,0 +1,81 @@
+aside {
+    width: 370px;
+    background: #1e2939;
+}
+
+.aside__photo {
+    margin-top: 40px;
+}
+
+.header-secondary {
+    color: #ffffff;
+}
+
+.contact-links {
+    color: #ffffff;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration: none;
+}
+
+.list-secondary {
+    color: #fb6d3a;
+    font-size: 14px;
+    line-height: 24px;
+    padding-left: 0;
+    list-style-position: inside;
+}
+
+.list-secondary-item {
+    color: #ffffff;
+    padding-left: 0px;
+    list-style-position: inside;
+}
+
+.contact-block {
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.tech-skills-block {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.soft-skill-block {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.courses-block {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.course-organizer {
+    margin: 5px 5px 5px 5px;
+    padding-left: 16px;
+    list-style-position: inside;
+}
+
+.interests {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 14px;
+    color: #595959;
+}
+
+.language-skill-block {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.language-skill-block {
+    margin-top: 20px;
+    margin-left: 20px;
+}
